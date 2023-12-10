@@ -38,4 +38,4 @@ Daha sonra, BTCTurk API'sinin sunduğu çeşitli fonksiyonları bu nesne üzerin
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır.
+Bu proje [MIT Lisansı]([LICENSE_dosyasının_linki](https://github.com/atillayurtseven/BTCTurk/blob/master/LICENSE)https://github.com/atillayurtseven/BTCTurk/blob/master/LICENSE) altında lisanslanmıştır.
