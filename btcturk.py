@@ -1,3 +1,11 @@
+# ---------------------------------------------------------------------------------
+# BTCTurk API Python Wrapper
+# Author: Atilla Yurtseven
+# License: MIT License
+#
+# Bu dosya, BTCTurk API'sini kullanarak çeşitli kripto para işlemleri ve sorgulamalarını
+# yapmak için yazılmış bir Python wrapper'ıdır. Tüm hakları saklıdır.
+# ---------------------------------------------------------------------------------
 # https://docs.btcturk.com/
 
 import requests, base64, time, hashlib, hmac
